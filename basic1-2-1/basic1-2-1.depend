@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413388538 source:f:\algo\basic1-2-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
